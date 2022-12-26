@@ -1,0 +1,3 @@
+cfota3.samsungdms.net
+cfota3.ospserver.net
+dms.ospserver.net
