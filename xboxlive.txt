@@ -5,3 +5,6 @@ assets1.xboxlive.com.nsatc.net
 xvcf1.xboxlive.com
 xvcf2.xboxlive.com
 d1.xboxlive.com
+dlassets.xboxlive.com
+xboxone.loris.llnwd.net
+xbox-mbr.xboxlive.com
