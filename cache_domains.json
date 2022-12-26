@@ -78,6 +78,11 @@
 			"domain_files": ["rockstar.txt"]
 		},
 		{
+			"name": "samsung",
+			"description": "CDN for Samsung",
+			"domain_files": ["samsung.txt"]
+		},
+		{
 			"name": "sony",
 			"description": "CDN for sony / playstation",
 			"domain_files": ["sony.txt"]
