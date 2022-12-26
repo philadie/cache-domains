@@ -9,3 +9,10 @@ amupdatedl2.microsoft.com
 amupdatedl3.microsoft.com
 amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
+msftstore.s.llnwi.net
+*.windowsupdate.nsatc.net
+delivery.mp.microsoft.com
+graystore.msedge.net.redirect.media.akamaihd.net
+msedge.net
+c-msedge.net
+au-msedge.net
